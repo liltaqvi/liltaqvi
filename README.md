@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @liltaqvi 
-- 👀 I’m interested in any Python based projects
-- 🌱 I’m currently learning Computer Science @ The University of Houston
+- 👀 I’m interested in any Python/C++ based projects
+- 🌱 I’m currently studying Computer Science @ The University of Houston
 - 💞️ I’m looking to collaborate on any fun and exciting projects
-- 📫 How to reach me Instagram @liltaqvi
+- 📫 How to reach me: Instagram @liltaqvi ~ Twitter @liltaqvi ~ LinkedIn @Alihussain Taqvi 
 
-<!---
-liltaqvi/liltaqvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
